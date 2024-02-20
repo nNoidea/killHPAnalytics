@@ -3,7 +3,7 @@ $serviceNames = @(
     "HPDiagsCap",
     "HpTouchpointAnalyticsService",
     "HPNetworkCap",
-    "HPOmenCap"
+    "HPOmenCap",
     "HPSysInfoCap"
 )
 
