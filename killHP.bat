@@ -1,0 +1,1 @@
+powershell C:\myPrograms\killHPAnalytics.ps1
